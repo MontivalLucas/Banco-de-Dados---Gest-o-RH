@@ -115,3 +115,22 @@ Durante os testes, foi validado o sucesso da execução dos scripts, tanto para 
    SELECT * FROM USR_GESTAO_RH.FUNCIONARIOS;
    SELECT * FROM USR_GESTAO_RH.AVALIACOES_DESEMPENHO;
    SELECT * FROM USR_GESTAO_RH.FOLHA_PAGAMENTO;
+
+
+
+---
+
+## Divisão Participantes do Grupo
+
+
+Montival Lucas ------- itens 1, 2, 4, 5, 6.
+
+Yuji Ihara ------------- itens 2, 3, 4, 6.
+
+
+1. **Objetivo e Estrutura**:Modelagem inicial escrita com base no objetivo do projeto, as tabelas e seus relacionamentos.
+2. **Scripts DDL e DML**: Criação das tabelas, as chaves e as inserções de dados.
+3. **Como Executar**: Instruções sobre como rodar os scripts no Oracle.
+4. **Validação**: Informa os testes feitos no Oracle para garantir a correção.
+5. **Estrutura do Repositório**: Estruturação do repositório e como está organizado.
+6. **Conclusão**: Revisão Geral sobre a entrega do trabalho.
